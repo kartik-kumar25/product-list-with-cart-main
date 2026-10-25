@@ -51,7 +51,7 @@ Users should be able to:
 
 ### Continued development
 
-- Device screen size interfernce
+- Device screen size interference
 
 ### AI Collaboration
 
@@ -62,7 +62,6 @@ Users should be able to:
 
 - Frontend Mentor - [@kartik-kumar25](https://www.frontendmentor.io/profile/kartik-kumar25)
 - GitHUb - [@kartik-kumar25](https://github.com/kartik-kumar25)
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
