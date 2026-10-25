@@ -61,7 +61,7 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@kartik-kumar25](https://www.frontendmentor.io/profile/kartik-kumar25)
-- GitHUb - [@kartik-kumar25](https://github.com/kartik-kumar25)
+- GitHub - [@kartik-kumar25](https://github.com/kartik-kumar25)
 
 ## Acknowledgments
 
