@@ -32,12 +32,12 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="assets.screenshot.png" alt="screenshot">
+<img src="assets/screenshot.png" alt="screenshot">
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click Here]([https://your-solution-url.com](https://github.com/kartik-kumar25/product-list-with-cart-main.git))
+- Live Site URL: [Click Here]([https://your-live-site-url.com](https://kartik-kumar25.github.io/product-list-with-cart-main/))
 
 ## My process
 
