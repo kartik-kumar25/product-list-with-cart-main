@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Here]([https://your-solution-url.com](https://github.com/kartik-kumar25/product-list-with-cart-main.git))
-- Live Site URL: [Click Here]([https://your-live-site-url.com](https://kartik-kumar25.github.io/product-list-with-cart-main/))
+- Solution URL: [Click Here](https://your-solution-url.com](https://github.com/kartik-kumar25/product-list-with-cart-main.git)
+- Live Site URL: [Click Here](https://your-live-site-url.com](https://kartik-kumar25.github.io/product-list-with-cart-main/)
 
 ## My process
 
