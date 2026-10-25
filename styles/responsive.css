@@ -1,0 +1,10 @@
+.active-add-to-cart-button{
+    opacity: 0;
+}
+.product-added .active-add-to-cart-button{
+    opacity: 1;
+    z-index: 2;
+}
+.product-added .dessert-img{
+    border: 3px solid hsl(14, 86%, 42%);
+}

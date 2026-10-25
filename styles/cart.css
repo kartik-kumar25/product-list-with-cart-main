@@ -1,0 +1,89 @@
+.cart-qty-final{
+    padding-bottom: 12px;
+    border-bottom: 1px solid hsl(13, 31%, 94%);
+    margin-bottom: 13px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.cart-qty-final, .other{
+    display: flex;
+    column-gap: 30px;
+    align-items: center;
+}
+
+.cart-qty-final h4{
+    color: hsl(14, 65%, 9%);
+    font-weight: 600;
+    font-size: 13px;
+    margin-bottom: 6px;
+}
+.cart-qty-final .cart-item-quantity{
+    color: hsl(14, 86%, 42%);
+}
+.cart-qty-final .price{
+    color: hsl(7, 20%, 60%);
+}
+.cart-qty-final .price span{
+    font-weight: 500;
+    color: hsl(12, 20%, 44%);
+}
+.dessert-in-cart{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    gap: 12px;
+}
+
+.left-side {
+    flex: 1;
+}
+.remove-icon{
+    cursor: pointer;
+}
+/* //////////////////// */
+.total-order{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 0 19px 0;
+    color: hsl(14, 65%, 9%)
+}
+.total-order h5{
+    font-weight: 400;
+}
+.total-order div{
+    font-size: 25px;
+    font-weight: 600;
+}
+/* //////////////////////////// */
+.carbon-msg-container{
+    background-color: hsl(13, 31%, 94%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 9px 16px;
+    color: hsl(14, 65%, 9%);
+    border-radius: 4px;
+}
+.carbon-msg-container img{
+    margin-right: 8px;
+}
+.carbon-msg-container p{
+    margin: 0;
+    font-size: 12px;
+}
+.carbon-msg-container p span{
+    font-weight: 500;
+}
+/* //////////////////////////// */
+.confirm-button{
+    text-align: center;
+    background-color: hsl(14, 86%, 42%);
+    color: hsl(20, 50%, 98%);
+    font-size: 12px;
+    padding: 12px 0;
+    border-radius: 20px;
+    margin-top: 20px;
+}
